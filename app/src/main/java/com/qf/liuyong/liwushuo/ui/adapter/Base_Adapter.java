@@ -20,8 +20,10 @@ import butterknife.ButterKnife;
 /**
  * Created by Administrator on 2016/11/6.
  */
+
+
 public class Base_Adapter extends BaseAdapter {
-    //
+
     private List<SelectBean.DataBean.ItemsBean> beanList ;
     private Context mContext;
     private LayoutInflater mLayoutInfalter;
